@@ -1,5 +1,5 @@
 # Swiss-Train-Travel-2025
-Quick overview of Swiss train travel options (based on my experiences only).
+Quick overview of Swiss (and selected other EU contry) train travel options (based on my experiences only).
 
 ## Travel Within Switzerland
 
@@ -40,10 +40,43 @@ There are a few different ticket and pass types that could be optimal depending 
   - It is cheaper but restricts spontaneity. If you know for sure which time you would like to leave/arrive, then this is ideal.
   - Like the Saver Day Pass, it must be purchased at least the day before travel.
 
-When traveling within a city, you need to check the local transportation company for passes, tickets, zone validity, etc. For example, in Geneva, you can find ticket and pass prices for buses/trams on [TPG (Geneva Public Transport)'s site](https://www.tpg.ch/en/ticket-fares). You can do the math against how much you will travel in a day within the city to see if a pass is worth it. In Zurich, you check [ZVV](https://www.zvv.ch/en/travelcards-and-tickets/tickets.html). Most local travel tickets cannot be purchased on the SBB app.
 
-In all cases of travel within Switzerland, unless taking special trains such as the [Bernina Express](https://www.myswitzerland.com/en-ca/experiences/bernina-express/) or the [Glacier Express](https://glacierexpress.ch/en), seat reservations are not necessary.
+### Additional Notes
+- For all of the above, there are 1st and 2nd class options. 2nd class can get busy depending on the route and time, to the point you may need to stand, but is still extremely comfortable.
+- When traveling within a city, you need to check the local transportation company for passes, tickets, zone validity, etc. For example, in Geneva, you can find ticket and pass prices for buses/trams on [TPG (Geneva Public Transport)'s site](https://www.tpg.ch/en/ticket-fares). You can do the math against how much you will travel in a day within the city to see if a pass is worth it. In Zurich, you check [ZVV](https://www.zvv.ch/en/travelcards-and-tickets/tickets.html). Most local travel tickets cannot be purchased on the SBB app.
+- In all cases of travel within Switzerland, unless taking special trains such as the [Bernina Express](https://www.myswitzerland.com/en-ca/experiences/bernina-express/) or the [Glacier Express](https://glacierexpress.ch/en), seat reservations are not necessary.
+- SBB trains are extremely punctual. You cannot be even a minute late. They will shut the door in your face and tell you too bad.
 
 ## Travel To/From Switzerland and Other Countries
+
+When traveling to or from Switzerland and another country, it is best to use the other country's transportation provider to purchase tickets. You can buy them from SBB, but they are almost always more expensive and full price.
+
+### France
+
+Tickets should be bought from [SNCF](https://www.sncf-connect.com/en-en/), the state-owned rail company. High-speed and long-distance rail is usually provided by TGV. For long-distance, it is best to reserve a specific seat so you can sit near fellow travellers and, most importantly, actually have a seat.
+
+Important to do before travelling to/within France is to check for a strike (you can just google). They are usually announced well in advance so that alternative arrangements can be made. The stereotype is a stereotype for a reason.
+
+### Germany
+
+Inter-city tickets should be purchased from [DB (Deutsche Bahn)](https://int.bahn.de/en). I will not get into specific ticket and pass types but a seat reservation is recommended. For regional travel, you will need to search for regional train providers. But usually you can purchase everything you need on DB's site.
+
+Two important notes about DB:
+1. The ticket prices can get outrageously high and even sold out if you try to purchase close to the departure time/date. Buy in advance if you can.
+2. Unlike SBB, DB's schedule is just a suggestion. Always anticipate you will be late.
+
+### Italy
+
+Italy has more providers than other countries. There are two main inter-city providers and a number of regional providers.
+
+[Trenitalia](https://www.trenitalia.com/en.html) is the state-owned provider and most tickets can be purchased here. [Italo](https://www.italotreno.com/en) is privately owned. It provides service mostly in South Italy. There is overlap on the routes covered between the companies. Like DB, the price of tickets will increase dramatically close to departure so try to plan in advance.
+
+### Overnight
+
+[Austria's OBB Nightjet](https://www.nightjet.com/en/) has long-distance, overnight trains to and from major cities across Europe. Only use Nightjet if you really need to save money or are time restricted. The rocking back and forth, loud noises, late/early schedule, etc... contribute to an awful sleep. You also need to buy far in advance unless you want to be sitting in a chair overnight.
+
+### More Than Two Countries
+
+If you will be travelling across multiple countries, consider the [Eurail Pass](https://www.eurail.com/en). It is meant to facilitate tickets across the different providers as an all-in-one pass. Details are beyond the scope of this write-up, but there are many procedures and considerations when using Eurail. A bit of research (and maybe even a diagram) is needed, but once it is all digested, it can save a lot of money while offering convenience.
 
 
