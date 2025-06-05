@@ -49,7 +49,7 @@ There are a few different ticket and pass types that could be optimal depending 
 
 ## Travel To/From Switzerland and Other Countries
 
-When traveling to or from Switzerland and another country, it is best to use the other country's transportation provider to purchase tickets. You can buy them from SBB, but they are almost always more expensive and full price.
+When traveling to or from Switzerland and another country, it is best to use the other country's transportation provider to purchase tickets. You can buy them from SBB but they are almost always more expensive and full price.
 
 ### France
 
