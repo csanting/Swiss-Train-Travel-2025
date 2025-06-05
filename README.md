@@ -1,5 +1,5 @@
 # Swiss-Train-Travel-2025
-Quick overview of Swiss (and selected other EU contry) train travel options (based on my experiences only).
+Quick overview of Swiss (and selected other EU country) train travel options (based on my experiences only).
 
 ## Travel Within Switzerland
 
