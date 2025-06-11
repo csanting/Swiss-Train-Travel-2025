@@ -13,6 +13,7 @@ There are a few different ticket and pass types that could be optimal depending 
   - If you need more flexibility, there is the Swiss Pass Flex version for a bit more money. It has the same options for day counts as the regular pass except you can pick and choose which days you are going to travel and validate it each day. You are not restricted to consecutive days. Keep in mind that the pass is only valid for 1 month so all days should be used within that time frame.
   - The Swiss Pass includes additional discounts for mountain excursions, free musem entry, etc....
   - Route validity can be found [here](https://www.travelswitzerland.com/en/downloads/?wpdmdl=63507) which is found on the [Swiss Pass website](https://swisstravelpass.com/).
+  - Note for clarity: There exists another type of [Swiss Pass](https://www.sbb.ch/en/tickets-offers/swisspass/swisspass.html) that acts as a physical ID card and holds SBB tickets and passes. This is geared towards Swiss residents and is not obtainable for tourists.
 
 - [Swiss Half-Fare Card (Halbtax)](https://www.sbb.ch/en/tickets-offers/tickets/guests-abroad/swiss-half-fare-card.html)
   - This pass gives discounts on most tickets and passes. Not necessarily half off all the time as the name suggests but it is great value.
